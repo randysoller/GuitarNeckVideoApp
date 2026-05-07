@@ -283,3 +283,10 @@ const styles = {
     padding: "2px 4px",
   },
 };
+{
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  }
+}
